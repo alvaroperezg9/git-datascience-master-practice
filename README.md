@@ -1,1 +1,5 @@
 # My Learning Journey
+Fix #1 added -- You can safely remove this line --
+Fix #2: Very important fix added -- You can safely remove this line
+This is a try of the ammend command
+This is another try
